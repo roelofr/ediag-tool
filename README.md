@@ -1,7 +1,7 @@
 # Electricity Diagram Tool
 
-This tool is meant to be used for domestic electricity diagrams. 
-It's goals are to render a consistent electricity diagram for your home, where you can add junction boxes, light 
+This tool is meant to be used for domestic electricity diagrams.
+It's goals are to render a consistent electricity diagram for your home, where you can add junction boxes, light
 switches and power outlets, as well as some additional diagrams.
 
 It's inspired by how PlantUML makes diagrams, but strictly for domestic use.
@@ -19,5 +19,5 @@ Future wishes include:
 
 ## License
 
-Feel free to use this for commercial use, but incorporating this into your project or AI model, means it's licensed 
+Feel free to use this for commercial use, but incorporating this into your project or AI model, means it's licensed
 under the Affero General Public License. For details, [refer to the LICENSE file](./LICENSE).
